@@ -1,0 +1,10 @@
+/* Стили для удобочитаемости и цветовой кодировки */
+.event {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.pastEvent {
+    background-color: #f2f2f2;
+}
